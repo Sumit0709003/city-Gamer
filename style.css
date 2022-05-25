@@ -1,0 +1,100 @@
+h1 {
+				text-align: center;
+				color:aqua;
+				background-color: #ff0034;
+}
+h3{
+				text-align: center;
+			text-transform: uppercase;
+			text-shadow: 1px 1px 1px ;
+			text-decoration: underline;
+}
+.a {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 350%;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2);
+    
+    color:aqua;
+}
+.b {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 350%;
+    font-weight: 750;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2);
+color:aqua;
+}
+.c {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 350%;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #eaffff,
+        1px 2px 1px #919191,
+        1px 3px 1px #919191,
+        1px 4px 1px #919191,
+        1px 5px 1px #919191,
+        1px 6px 1px #919191,
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2);
+   
+    color:aqua;
+}
+div{
+				background-image: url('city.jpg');
+				bbackground-size: 100%;
+				background-attachment: scroll;
+				background-repeat:no-repeat;
+}
+.y{
+				color:red;
+}
+.i{
+				color: hotpink;
+}
+.l{
+				text-align: center;
+				font-family: verdana;
+    font-size: 200%;
+    font-weight: 750;
+    text-decoration: underline;
+    color: #4740ff;
+}
+hr{
+				height: 3px;
+				color: #000000;
+				background-color: #000000;
+}
+.m{
+				text-align: center;
+				font-family: verdana;
+    font-size: 200%;
+    font-weight: 750;
+    text-decoration:solid;
+    color: #ffdc55;
+}
